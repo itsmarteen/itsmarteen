@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmarteen aka Martin (pronounced Mar-teen)
 - 👀 I’m interested in learning front-end web development.
 - 🌱 I’m currently learning HTML and CSS basics.
-- 💞️ I’m looking to collaborate food blogging websites.
+- 💞️ I’m looking to collaborate on food blogging websites or restaurant websites.
 - 📫 How to reach me: itsmartin.ramirez@gmail.com
 
 <!---
